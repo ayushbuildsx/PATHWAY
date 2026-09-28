@@ -19,8 +19,8 @@ Core features:
 - "Students Like Me" — real journeys: Exam/Rank → College → Branch → Skills → Internship → Job
 
 ## Tech Stack (planned)
-Frontend: React + Tailwind · Backend: Node.js + Express · Database: MongoDB 
-AI Layer: LLM API for roadmap generation · Auth: Firebase/JWT · Hosting: Vercel + Render
+Frontend: React + Tailwind CSS · Backend: Node.js + Express · Database: MongoDB 
+AI Layer: LLM API for roadmap generation · Auth: Firebase Auth/JWT · Hosting: Vercel + Render
 
 ## Status
 Round 1 submission — problem-solution fit and design complete. MVP build in progress 
