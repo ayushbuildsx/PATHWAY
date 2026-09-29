@@ -28,7 +28,7 @@ ahead of the Grand Finale.
 
 ## Team
 - Team Zero Error
-- Ayush Raj (Team Lead)
+- Ayush Raj 
 - Sharyansh Gupta
 - Harshita Goyal
 - Anjali Singh
